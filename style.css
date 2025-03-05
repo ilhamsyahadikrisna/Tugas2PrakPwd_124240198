@@ -1,0 +1,22 @@
+body {
+    background-color: #b8cce0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 700px;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-top: 10px;
+}
